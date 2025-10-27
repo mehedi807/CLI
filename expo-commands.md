@@ -9,7 +9,7 @@ npm install -g expo-cli
 ## 2. Create a New Expo Project
 
 ```sh
-npx create-expo-app app_name
+npx create-expo-app app_name --template
 ```
 
 ## 3. Install Dependencies
